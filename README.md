@@ -1,4 +1,4 @@
-<a href="https://github.com/rafaelrvital/Java-Trainning/blob/main/README_PT-BR.md"><img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="30" align="right"></a>
+<a href="https://github.com/rafaelrvital/Java-Trainning/blob/main/README_PT-BR.md"><img src="https://github.com/rafaelrvital/rafaelrvital/blob/main/assets/flags/br.png" width="25" align="right"></a>
 
 <br>
 
@@ -12,4 +12,4 @@
 
 ## Description:
 
-This repository is intended for publishing projects carried out in bootcamps, courses and related activities.
+This repository is intended for publishing projects in Java carried out in bootcamps, courses and related activities.

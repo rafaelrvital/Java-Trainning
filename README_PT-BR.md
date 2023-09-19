@@ -6,10 +6,12 @@
 
 # Java Trainning
 
-</div>
-
-![Tag da Liguagem](https://img.shields.io/badge/Trainning-Java-orange)
+</div><br>
 
 ## Descrição:
 
 Repositório destinatinado a publicação de projetos em Java realizados em bootcamps, cursos e atividades relacionadas
+
+## Projetos:
+
+- <a href="https://github.com/rafaelrvital/Java-Trainning/tree/main/bootcamp-Santander2023">Santander Bootcamp 2023</a>

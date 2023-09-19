@@ -1,15 +1,17 @@
-<a href="https://github.com/rafaelrvital/Java-Trainning/blob/main/README.md"><img src="https://github.com/rafaelrvital/rafaelrvital/blob/main/assets/flags/us.png" width="25" align="right" title="Change to english"></a>
+<a href="https://github.com/rafaelrvital/Java-Trainning/blob/main/bootcamp-Santander2023/README.md"><img src="https://github.com/rafaelrvital/rafaelrvital/blob/main/assets/flags/us.png" width="25" align="right" title="Change to english"></a>
 
 <br>
 
 <div align=center>
 
-# Java Trainning
+# Santander Bootcamp 2023
 
-</div>
+Bootcamp Backend Java
+
+</div><br>
 
 ![Tag da Liguagem](https://img.shields.io/badge/Trainning-Java-orange)
 
 ## Descrição:
 
-Repositório destinatinado a publicação de projetos em Java realizados em bootcamps, cursos e atividades relacionadas
+Projetos referentes as atividades realizadas no Santander Bootcamp 2023.
